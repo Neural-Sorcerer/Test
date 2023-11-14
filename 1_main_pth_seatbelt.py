@@ -6,7 +6,7 @@ Description: SeatbeltPTH
 Date: 2023.11.03
 Researcher: Maksym Chernozhukov
 """
-# @ second updatye 2e2ed2e 2e
+# @ second updatye 2e2ed2e 2edasdas
 import os
 import cv2
 import copy
